@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/raunakk/",
+      url: "https://www.linkedin.com/in/rraunakk/",
     },
     {
       image: "fa-twitter",
